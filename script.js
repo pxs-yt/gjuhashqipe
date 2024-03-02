@@ -18,6 +18,11 @@ const albanianWords = {
         definition: "Perkufizim",
         example: "Siper eshte definicioni i fjales se kerkuar."
     },
+    "definitiv": {
+        origin: "Angleze",
+        definition: "Perfundimtar",
+        example: "Vendimi i tij eshte definitiv."
+    }
   };
   
 
