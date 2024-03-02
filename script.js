@@ -12,7 +12,7 @@ const albanianWords = {
         origin: "Angleze",
         definition: "Pershtatje",
         example: "Ai person eshte adapt per punen."
-    }
+    },
   };
   
 
