@@ -48,6 +48,11 @@ const albanianWords = {
         definition: "I përpiktë",
         example: "Kerkesa eshte mjaft ekzakte."
     },
+    "eveniment": {
+        origin: "Angleze",
+        definition: "Ngjarje",
+        example: "Evenimenti nis për pesë minuta."
+    },
   };
   
 
