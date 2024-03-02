@@ -23,6 +23,11 @@ const albanianWords = {
         definition: "Perfundimtar",
         example: "Vendimi i tij eshte definitiv."
     },
+    "ekzakt": {
+        origin: "Angleze",
+        definition: "I përpiktë",
+        example: "Kerkesa eshte mjaft ekzakte."
+    },
   };
   
 
