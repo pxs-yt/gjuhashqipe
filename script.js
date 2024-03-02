@@ -4,9 +4,9 @@ const definitionDiv = document.getElementById("definition");
 
 const albanianWords = {
     "telefon": {
-      origin: "Greek",
-      definition: "telephone",
-      example: "Mund të më telefononi më vonë?"
+      origjina: "Greke",
+      kuptimi: "telephone",
+      shembull: "Mund të më telefononi më vonë?"
     },
     // ... add more words with their information
   };
