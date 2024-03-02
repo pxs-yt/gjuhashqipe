@@ -53,6 +53,11 @@ const albanianWords = {
         definition: "Ngjarje",
         example: "Evenimenti nis për pesë minuta."
     },
+    "evident": {
+        origin: "Angleze",
+        definitiion: "I qartë (i dukshëm)",
+        example: "Situata është mjaft evidente."
+    },
     "eliminoj": {
         origin: "Angleze",
         definition: "Zhduk (çrrënjos)",
