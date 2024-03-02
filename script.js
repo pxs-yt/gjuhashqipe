@@ -24,9 +24,9 @@ searchButton.addEventListener("click", function() {
       const example = definition.example || ""; // Use default empty string if `example` is missing
 
       definitionDiv.innerHTML = `
-        <b>Origin:</b> ${origin}<br>
-        <b>Definition:</b> ${definitionText}<br>
-        ${example ? `<b>Example:</b> ${example}` : ""}
+        <b>Origjina:</b> ${origin}<br>
+        <b>Kuptimi i fjales:</b> ${definitionText}<br>
+        ${example ? `<b>Shembull:</b> ${example}` : ""}
       `;
     } else {
       definitionDiv.textContent = "Fjala nuk u gjet ne fjalor.";
