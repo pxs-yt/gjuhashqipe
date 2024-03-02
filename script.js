@@ -22,7 +22,7 @@ const albanianWords = {
         origin: "Angleze",
         definition: "Perfundimtar",
         example: "Vendimi i tij eshte definitiv."
-    }
+    },
   };
   
 
