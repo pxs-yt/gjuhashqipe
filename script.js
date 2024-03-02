@@ -23,6 +23,26 @@ const albanianWords = {
         definition: "Perfundimtar",
         example: "Vendimi i tij eshte definitiv."
     },
+    "diference": {
+        origin: "Angleze",
+        definition: "Ndryshim (dallim)",
+        example: "Këto dy punime nuk kanë asnjë diferencë mes tyre."
+    },
+    "diferencë": {
+        origin: "Angleze",
+        definition: "Ndryshim (dallim)",
+        example: "Këto dy punime nuk kanë asnjë diferencë mes tyre."
+    },
+    "eksperience": {
+        origin: "Angleze",
+        definition: "Përvojë",
+        example: "Ai djalë nuk ka eksperiencë në këtë fushë."
+    },
+    "eksperiencë": {
+        origin: "Angleze",
+        definition: "Përvojë",
+        example: "Ai djalë nuk ka eksperiencë në këtë fushë."
+    },
     "ekzakt": {
         origin: "Angleze",
         definition: "I përpiktë",
