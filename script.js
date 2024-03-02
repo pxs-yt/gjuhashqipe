@@ -4,9 +4,9 @@ const definitionDiv = document.getElementById("definition");
 
 const albanianWords = {
     "telefon": {
-      origjina: "Greke",
-      kuptimi: "Mjet me te cilin dy ose me shume persona flasin me njeri-tjetrin.",
-      shembull: "Mund të më telefononi më vonë?"
+      origin: "Greke",
+      definition: "Mjet me te cilin dy ose me shume persona flasin me njeri-tjetrin.",
+      example: "Mund të më telefononi më vonë?"
     },
     // ... add more words with their information
   };
