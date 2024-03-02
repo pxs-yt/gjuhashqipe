@@ -8,7 +8,11 @@ const albanianWords = {
       definition: "Mjet me te cilin dy ose me shume persona flasin me njeri-tjetrin.",
       example: "Mund të më telefononi më vonë?"
     },
-    // ... add more words with their information
+    "adapt": {
+        origin: "Angleze",
+        definition: "Pershtatje",
+        example: "Ai person eshte adapt per punen."
+    }
   };
   
 
