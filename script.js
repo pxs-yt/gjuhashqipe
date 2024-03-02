@@ -73,6 +73,16 @@ const albanianWords = {
         definition: "ndjek",
         example: "Nxënësi frekuenton disa grupe jashtëshkollore."
     },
+    "indipendence": {
+        origin: "Angleze",
+        definition: "Pavarësi",
+        example: "Kosova ka shpallur indipendencën e saj më 17 shkurt 2008."
+    },
+    "indipendencë": {
+        origin: "Angleze",
+        definition: "Pavarësi",
+        example: "Kosova ka shpallur indipendencën e saj më 17 shkurt 2008."
+    },
   };
   
 
