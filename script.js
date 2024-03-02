@@ -68,6 +68,11 @@ const albanianWords = {
         definition: "I rremë",
         example: "Paratë që ai përdori ishin false."
     },
+    "frekuentoj": {
+        origin: "Angleze",
+        definition: "ndjek",
+        example: "Nxënësi frekuenton disa grupe jashtëshkollore."
+    },
   };
   
 
