@@ -53,6 +53,11 @@ const albanianWords = {
         definition: "Ngjarje",
         example: "Evenimenti nis për pesë minuta."
     },
+    "eliminoj": {
+        origin: "Angleze",
+        definition: "Zhduk (çrrënjos)",
+        example: "Ata u përpoqën të eliminonin shenjat."
+    },
   };
   
 
