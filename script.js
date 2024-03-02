@@ -63,6 +63,11 @@ const albanianWords = {
         definition: "Zhduk (çrrënjos)",
         example: "Ata u përpoqën të eliminonin shenjat."
     },
+    "fals": {
+        origin: "Angleze",
+        definition: "I rremë",
+        example: "Paratë që ai përdori ishin false."
+    },
   };
   
 
