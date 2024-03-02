@@ -13,6 +13,11 @@ const albanianWords = {
         definition: "Pershtatje",
         example: "Ai person eshte adapt per punen."
     },
+    "definicion": {
+        origin: "Angleze",
+        definition: "Perkufizim",
+        example: "Siper eshte definicioni i fjales se kerkuar."
+    },
   };
   
 
