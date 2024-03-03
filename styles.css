@@ -13,7 +13,7 @@ h1 {
     margin-bottom: 10px;
 }
 
-#searchButton {
+.searchButton {
     /* Basic button styles */
     background-color: transparent;
     border: none;
@@ -36,7 +36,7 @@ h1 {
     transition: background 0.3s ease; /* Smooth transition */
 }
 
-#searchButton:hover {
+.searchButton:hover {
     transform: translateY(-2px);
 }
 
