@@ -1,18 +1,121 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fjalor - Gjuhe Shqipe</title>
-    <link rel="stylesheet" href="styles.css">
-    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&display=swap">
-</head>
-<body>
-    <h1>Fjale shqipe te marra nga gjuhet e tjera</h1>
-    <input type="text" id="searchWord" placeholder="Kerko per fjale te huazuar">
-    <button class="searchButton" id="searchButton">Kerko</button>
-    <div id="definition"></div>
-    <script src="script.js"></script>
-</body>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!--=============== BOXICONS ===============-->
+        <link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
+
+        <!--=============== CSS ===============-->
+        <link rel="stylesheet" href="assets/css/styles.css">
+        <link rel="stylesheet" href="assets/css/fjalori.css">
+
+        <title>GJUHA SHQIPE</title>
+    </head>
+    <body>
+        <!--=============== NAV ===============-->
+        <nav class="nav" id="nav">
+            <div class="nav__menu container" id="nav-menu">
+                <div class="nav__shape"></div>
+
+                <div class="nav__close" id="nav-close">
+                    <i class='bx bx-x'></i>
+                </div>
+                
+                <div class="nav__data">
+                    <div class="nav__mask">
+                        <!-- Change your profile picture -->
+                        <img src="assets/img/pxs-bw-nobg.png" alt="" class="nav__img">
+                    </div>
+
+                    <span class="nav__greeting">Miresevini ne</span>
+                    <h1 class="nav__name">Projektin e <br> Gjuhes Shqipe</h1>
+                </div>
+
+                <ul class="nav__list">
+                    <li class="nav__item">
+                        <a href="#home" class="nav__link active-link">
+                            <i class='bx bx-home' ></i> Fjalori 
+                        </a>
+                    </li>
+                    <li class="nav__item">
+                        <a href="#about" class="nav__link">
+                            <i class='bx bx-user'></i> About
+                        </a>
+                    </li>
+                    <li class="nav__item">
+                        <a href="#portfolio" class="nav__link">
+                            <i class='bx bx-briefcase-alt-2'></i> Portfolio
+                        </a>
+                    </li>
+                    <li class="nav__item">
+                        <a href="#skills" class="nav__link">
+                            <i class='bx bx-bookmark'></i> Skills
+                        </a>
+                    </li>
+                    <li class="nav__item">
+                        <a href="#contact" class="nav__link">
+                            <i class='bx bx-message-square-detail'></i> Contact
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <!--=============== MAIN ===============-->
+        <main class="main" id="main">
+            <!--=============== HEADER ===============-->
+            <header class="header" id="header">
+                <nav class="header__nav container">
+                    <a href="#" class="header__logo">
+                        Gjuhe Shqipe - Vincenc Prendushi
+                    </a>
+    
+                    <!-- Toggle button -->
+                    <div class="header__toggle" id="header-toggle">
+                        <i class='bx bx-grid-alt'></i>
+                    </div>
+                </nav>
+            </header>
+
+
+            <!-- When inserting your content into sections, remove the section__height class -->
+            <!--=============== HOME ===============-->
+            <section class="section section__height container" id="home">
+                <h1>Fjalori</h1>
+                <input type="text" id="searchWord" placeholder="Kerko per fjale te huazuar">
+                <button class="searchButton" id="searchButton">Kerko</button>
+                <div id="definition"></div>
+                <script src="assets/js/fjalori.js"></script>
+            </section>
+
+            <!--=============== ABOUT ===============-->
+            <section class="section section__height container" id="about">
+                <h1>ABOUT</h1>
+                
+            </section>
+
+            <!--=============== PORTFOLIO ===============-->
+            <section class="section section__height container" id="portfolio">
+                <h1>PORTFOLIO</h1>
+                
+            </section>
+
+            <!--=============== SKILLS ===============-->
+            <section class="section section__height container" id="skills">
+                <h1>SKILLS</h1>
+                
+            </section>
+
+            <!--=============== CONTACT ===============-->
+            <section class="section section__height container" id="contact">
+                <h1>CONTACT</h1>
+
+            </section>
+        </main>
+
+        <!--=============== MAIN JS ===============-->
+        <script src="assets/js/main.js"></script>
+    </body>
 </html>
