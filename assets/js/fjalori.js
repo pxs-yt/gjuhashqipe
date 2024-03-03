@@ -314,6 +314,16 @@ const albanianWords = {
       definition: "Secila nga të dy kockat e gjera, rrasike e si trekëndësh, që janë djathtas e majtas pjesës së sipërme të shpinës së njeriut; zakon. pjesa e shpinës rreth këtyre kockave; pjesa e trupit të kafshëve me katër këmbë, ku lidhet këmba e përparme me trupin; kocka e kësaj pjese.",
       example: "Shpatulla e djathtë."
     },
+    "shpine": {
+      origin: "Latine",
+      definition: "Pjesa e prapme e trupit të njeriut nga qafa e supet deri te mesi; pjesa e sipërme e trupit të kafshëve gjatë shtyllës kurrizore deri te vithet; kurriz.",
+      example: "Shpinë e drejtë."
+    },
+    "shpinë": {
+      origin: "Latine",
+      definition: "Pjesa e prapme e trupit të njeriut nga qafa e supet deri te mesi; pjesa e sipërme e trupit të kafshëve gjatë shtyllës kurrizore deri te vithet; kurriz.",
+      example: "Shpinë e drejtë."
+    },
   };
   
 
