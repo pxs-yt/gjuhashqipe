@@ -1,0 +1,38 @@
+#searchWord {
+    padding: 10px;
+    width: 250px;
+    margin-bottom: 10px;
+}
+
+.searchButton {
+    /* Basic button styles */
+    background-color: hsl(273, 21%, 56%);
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Rubik', sans-serif; /* Use Google Fonts */
+    cursor: pointer;
+
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.5s ease; /* Optional: Add a smooth hover effect */
+  
+    /* Blurry background effect */
+    backdrop-filter: blur(10px); /* Adjust blur intensity */
+    opacity: 1; /* Adjust transparency */
+    transition: background 0.3s ease; /* Smooth transition */
+}
+
+.searchButton:hover {
+    transform: translateY(-2px);
+}
+
+#definition {
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
