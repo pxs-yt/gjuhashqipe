@@ -729,6 +729,12 @@ const albanianWords = {
       definition: "I ngjall dikujt trishtim, bëj që dikush të bjerë në trishtim.",
       example: "E trishtoi vdekja e vëllait."
     },
+    "novacion": {
+      origin: "Angleze",
+      definition: "Metodë e re në prodhim ose në teknikë; diçka e re e përparimtare në fushën e shkencës a të artit, risi.",
+      example: "Novacione teknike. | Bëj (vë në jetë) një novacion."
+    },
+    
   };
   
 
