@@ -8,6 +8,11 @@ const albanianWords = {
       definition: "Rehatohu",
       example: "Mund të më telefononi më vonë?"
     },
+    "telebingooo": {
+      origin: "Po korca poo",
+      definition: "Nga doktorr Timi Ditit me banane",
+      example: "I keni ron gabim vllai."
+    },
     
   };
   
