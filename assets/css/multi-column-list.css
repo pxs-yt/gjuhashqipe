@@ -1,0 +1,24 @@
+.multi-column-list {
+    /* Inherit styles from the website's lists (adjust as needed) */
+    color: var(--text-color);
+    font-family: var(--body-font);
+    list-style: none; /* Remove default bullets */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+  }
+  
+  /* For screens wider than 768px (e.g., three columns) */
+  @media (min-width: 768px) {
+    .multi-column-list {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr); /* Three columns of equal width */
+      grid-gap: 10px; /* Adjust spacing between columns */
+    }
+  }
+  
+  /* For screens narrower than 767px (e.g., single column) */
+  @media (max-width: 767px) {
+    .multi-column-list {
+      display: block;
+    }
+  }
