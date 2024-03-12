@@ -241,42 +241,42 @@ const albanianWords = {
     "eksperience": {
       origin: "Angleze",
       definition: "Përvojë",
-      example: "SHEMBULLI"
+      example: "Gazetari kishte 5 vjet eksperiencë."
     },
-    "eksperencë": {
+    "eksperiencë": {
       origin: "Angleze",
       definition: "Përvojë",
-      example: "SHEMBULLI"
+      example: "Gazetari kishte 5 vjet eksperiencë."
     },
     "download": {
       origin: "Angleze",
       definition: "Shkarkoj",
-      example: "SHEMBULLI"
+      example: "Djalit i doli butoni me shkrimin Download."
     },
     "upload": {
       origin: "Angleze",
       definition: "Ngarkoj",
-      example: "SHEMBULLI"
+      example: "Djalit i doli butoni me shkrimin Upload."
     },
     "network": {
       origin: "Angleze",
       definition: "Rrjet",
-      example: "SHEMBULLI"
+      example: "Kompjuterat ishin të lidhur në një network."
     },
     "risk": {
       origin: "Angleze",
       definition: "Rrezik",
-      example: "SHEMBULLI"
+      example: "Duhej parashikuar risku i situatës."
     },
     "suportoj": {
       origin: "Angleze",
       definition: "Mbështes (moralisht)",
-      example: "SHEMBULLI"
+      example: "Mësuesja suportonte idetë e nxënësve."
     },
     "posedon": {
       origin: "Angleze",
       definition: "Zotëron",
-      example: "SHEMBULLI"
+      example: "Djali posedonte një biçikletë të re."
     },
     
   };
