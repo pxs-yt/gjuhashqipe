@@ -6,237 +6,237 @@ const albanianWords = {
     "akomodohu": {
       origin: "Angleze",
       definition: "Rehatohu",
-      example: "Mund të më telefononi më vonë?"
+      example: "Akomodohu, rri si në shtëpinë tënde."
     },
     "agravuar": {
       origin: "Angleze",
       definition: "Rënduar",
-      example: "SHEMBULLI"
+      example: "Gjendja është shumë e agravuar."
     },
     "relaksuar": {
       origin: "Angleze",
       definition: "Çlodhur",
-      example: "SHEMBULLI"
+      example: "Dua të relaksohem."
     },
     "puntatë": {
       origin: "Italiane",
       definition: "Pjesë",
-      example: "SHEMBULLI"
+      example: "Kjo puntatë ishte shumë argëtuese."
     },
     "puntate": {
       origin: "Italiane",
       definition: "Pjesë",
-      example: "SHEMBULLI"
+      example: "Kjo puntatë ishte shumë argëtuese."
     },
     "involvoj": {
       origin: "Angleze",
       definition: "Përfshij",
-      example: "SHEMBULLI"
+      example: "Involvo dhe persona të tjerë në projekt."
     },
     "monstër": {
       origin: "Angleze",
       definition: "Përbindësh",
-      example: "SHEMBULLI"
+      example: "Monstra në film më trembi shumë."
     },
     "monster": {
       origin: "Angleze",
       definition: "Përbindësh",
-      example: "SHEMBULLI"
+      example: "Monstra në film më trembi shumë."
     },
     "bravo": {
       origin: "Italiane",
       definition: "Të lumtë",
-      example: "SHEMBULLI"
+      example: "Bravo, dole shumë mirë në test!"
     },
     "selektoj": {
       origin: "Angleze",
       definition: "Përzgjedh",
-      example: "SHEMBULLI"
+      example: "Selekto vetëm fjalët që të duhen."
     },
     "shokuese": {
       origin: "Angleze",
       definition: "Tronditëse",
-      example: "SHEMBULLI"
+      example: "Situata është shokuese."
     },
     "ortografi": {
       origin: "Angleze",
       definition: "Drejtshkrim",
-      example: "SHEMBULLI"
+      example: "Ke gabime në ortografi."
     },
     "dimension": {
       origin: "Angleze",
       definition: "Përmasë",
-      example: "SHEMBULLI"
+      example: "Dimensioni i katrorit është brinjë * brinjë."
     },
     "inspirim": {
       origin: "Angleze",
       definition: "Frymëzim",
-      example: "SHEMBULLI"
+      example: "U inspirova nga një video."
     },
     "show": {
       origin: "Angleze",
       definition: "Shfaqje",
-      example: "SHEMBULLI"
+      example: "Show im i preferuar është në kanalin 5."
     },
     "kreativ": {
       origin: "Angleze",
       definition: "Krijues",
-      example: "SHEMBULLI"
+      example: "Ti je mjaft kreativ."
     },
     "konkluzion": {
       origin: "Angleze",
       definition: "Përfundim",
-      example: "SHEMBULLI"
+      example: "Përpiqu të arrish në konkluzion."
     },
     "dedikoj": {
       origin: "Angleze",
       definition: "Kushtoj",
-      example: "SHEMBULLI"
+      example: "Letrën ta dedikova ty."
     },
     "koincidence": {
       origin: "Angleze",
       definition: "Rastësi",
-      example: "SHEMBULLI"
+      example: "Është me të vërtetë koincidencë që u takuam."
     },
     "koincidencë": {
       origin: "Angleze",
       definition: "Rastësi",
-      example: "SHEMBULLI"
+      example: "Është me të vërtetë koincidencë që u takuam."
     },
     "inauguroj": {
       origin: "Angleze",
       definition: "Përuroj",
-      example: "SHEMBULLI"
+      example: "Dyqani i ri u inaugurua."
     },
     "iniciative": {
       origin: "Angleze",
       definition: "Nismë",
-      example: "SHEMBULLI"
+      example: "Merr iniciativën të mësosh."
     },
     "iniciativë": {
       origin: "Angleze",
       definition: "Nismë",
-      example: "SHEMBULLI"
+      example: "Merr iniciativën të mësosh."
     },
     "kauze": {
       origin: "Angleze",
       definition: "Çështje",
-      example: "SHEMBULLI"
+      example: "Kauza ime është mbrojtja e vendit."
     },
     "kauzë": {
       origin: "Angleze",
       definition: "Çështje",
-      example: "SHEMBULLI"
+      example: "Kauza ime është mbrojtja e vendit."
     },
     "evitoj": {
       origin: "Angleze",
       definition: "Shmang",
-      example: "SHEMBULLI"
+      example: "Evito sherret!"
     },
     "kuroj": {
       origin: "Angleze",
       definition: "Përkujdesem / Mjekoj",
-      example: "SHEMBULLI"
+      example: "Mjeku kuron pacientët."
     },
     "starton": {
       origin: "Angleze",
       definition: "Fillon",
-      example: "SHEMBULLI"
+      example: "Gara sapo startoi."
     },
     "kualitet": {
       origin: "Angleze",
       definition: "Cilësi",
-      example: "SHEMBULLI"
+      example: "Video ishte me kualitet të lartë."
     },
     "skonto": {
       origin: "Italiane",
       definition: "Ulje (çmimi)",
-      example: "SHEMBULLI"
+      example: "Kemi skonto 50% në produktet që shihni."
     },
     "konstatoj": {
       origin: "Angleze",
       definition: "Vërej",
-      example: "SHEMBULLI"
+      example: "Konstatova gabime trashanike."
     },
     "civilizim": {
       origin: "Angleze",
       definition: "Qytetërim",
-      example: "SHEMBULLI"
+      example: "Shqipëria është e civilizuar."
     },
     "indiferent": {
       origin: "Angleze",
       definition: "Mospërfillës",
-      example: "SHEMBULLI"
+      example: "Mos u trego indiferent."
     },
     "violence": {
       origin: "Angleze",
       definition: "Dhunë",
-      example: "SHEMBULLI"
+      example: "Violenca është rruga e gabuar për të zgjidhur problemin."
     },
     "violencë": {
       origin: "Angleze",
       definition: "Dhunë",
-      example: "SHEMBULLI"
+      example: "Violenca është rruga e gabuar për të zgjidhur problemin."
     },
     "ambient": {
       origin: "Angleze",
       definition: "Mjedis",
-      example: "SHEMBULLI"
+      example: "Mbani ambientin pastër!"
     },
     "kuantitet": {
       origin: "Angleze",
       definition: "Sasi",
-      example: "SHEMBULLI"
+      example: "Më mire cilësi sesa kuantitet."
     },
     "sensibilizim": {
       origin: "Angleze",
       definition: "Ndërgjegjësim",
-      example: "SHEMBULLI"
+      example: "Le të sensibilizohemi për të ndihmuar njerëzit."
     },
     "interaktiv": {
       origin: "Angleze",
       definition: "Bashkëveprues",
-      example: "SHEMBULLI"
+      example: "Projekti ishte interaktiv."
     },
     "destinacion": {
       origin: "Angleze",
       definition: "Vend-mbërritje",
-      example: "SHEMBULLI"
+      example: "Për pak arrijmë në destinacion."
     },
     "preferoj": {
       origin: "Angleze",
       definition: "Parapëlej",
-      example: "SHEMBULLI"
+      example: "Preferoj të mos e diskutoj situatën."
     },
     "kurioz": {
       origin: "Angleze",
       definition: "Kureshtar",
-      example: "SHEMBULLI"
+      example: "Jam kurioz të di gjithçka."
     },
     "trauma": {
       origin: "Angleze",
       definition: "Plagë (pasoja)",
-      example: "SHEMBULLI"
+      example: "Pacienti ishte me trauma prej luftës."
     },
     "imagjinoj": {
       origin: "Angleze",
       definition: "Përfytyroj",
-      example: "SHEMBULLI"
+      example: "Nuk e imagjinoj dot klasën pa ty."
     },
     "fans": {
       origin: "Angleze",
       definition: "Adhurues",
-      example: "SHEMBULLI"
+      example: "Ai kishte plot fansa të zjarrtë."
     },
     "hit": {
       origin: "Angleze",
       definition: "Këngë",
-      example: "SHEMBULLI"
+      example: "Hiti i tij bëri bujë."
     },
     "predominon": {
       origin: "Angleze",
       definition: "Mbizotëron",
-      example: "SHEMBULLI"
+      example: "Në shkollë predominon qetësia dhe edukata."
     },
     "eksperience": {
       origin: "Angleze",
