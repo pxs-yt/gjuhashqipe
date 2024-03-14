@@ -58,14 +58,14 @@ function scrollActive(){
 window.addEventListener('scroll', scrollActive)
 
 // Social Media Icons
-document.getElementById("fb-icon").onclick = function () {
+document.getElementById("fb-div").onclick = function () {
     location.href = "https://www.facebook.com/shkolla.vincencprendushi.9/?locale=sq_AL"
 }
 
-document.getElementById("ig-icon").onclick = function () {
+document.getElementById("ig-div").onclick = function () {
     location.href = "https://www.instagram.com/shkollavincencprendushi/"
 }
 
-document.getElementById("web-icon").onclick = function () {
+document.getElementById("web-div").onclick = function () {
     location.href = "https://shkollaprendushi.com"
 }
