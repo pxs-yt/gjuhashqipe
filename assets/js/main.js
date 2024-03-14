@@ -56,3 +56,16 @@ function scrollActive(){
     })
 }
 window.addEventListener('scroll', scrollActive)
+
+// Social Media Icons
+document.getElementById("fb-icon").onclick = function () {
+    location.href = "https://www.facebook.com/shkolla.vincencprendushi.9/?locale=sq_AL"
+}
+
+document.getElementById("ig-icon").onclick = function () {
+    location.href = "https://www.instagram.com/shkollavincencprendushi/"
+}
+
+document.getElementById("web-icon").onclick = function () {
+    location.href = "https://shkollaprendushi.com"
+}
