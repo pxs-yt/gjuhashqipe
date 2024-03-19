@@ -116,7 +116,7 @@ img {
 
 .nav__img {
   width: 70px;
-  margin-bottom: 5%;
+  margin-bottom: auto;
 }
 
 .nav__mask {
