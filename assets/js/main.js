@@ -69,3 +69,7 @@ document.getElementById("ig-div").onclick = function () {
 document.getElementById("web-div").onclick = function () {
     location.href = "https://shkollaprendushi.com"
 }
+
+document.getElementById("downloadButton").onclick = function () {
+    location.href = "https://apk.e-droid.net/apk/app3020927-2bt4mf.apk?v=3"
+}
