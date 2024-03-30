@@ -71,5 +71,5 @@ document.getElementById("web-div").onclick = function () {
 }
 
 document.getElementById("downloadButton").onclick = function () {
-    location.href = "https://apk.e-droid.net/apk/app3020927-2bt4mf.apk?v=3"
+    location.href = "https://apk.e-droid.net/apk/app3046012-j2ohw9.apk?v=2"
 }
